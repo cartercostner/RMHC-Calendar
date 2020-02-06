@@ -1,0 +1,8 @@
+<h2>Demo Message July</h2>
+<br>
+<h3>Middle of the year. <u>Time for a little break!</u></h3>
+<br><br>
+<div style="text-align:center;"><img src="./thumbnails/holidays.jpg" alt="Me on the beach" width="200"></div>
+<br>
+<p style="text-align:center;">This month you can find me here!</p>
+

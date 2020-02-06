@@ -1,0 +1,6 @@
+<h2>Demo Message - December</h2>
+<h3>A month to think of other people</h3>
+<p>Please put your presents under these</p>
+<div style="text-align:center;"><img src="./thumbnails/xmas.png" alt="Christmas Tree" width="33"></div>
+<div style="text-align:center;"><img src="./thumbnails/xmas.png" alt="Christmas Tree" width="63"></div>
+<div style="text-align:center;"><img src="./thumbnails/xmas.png" alt="Christmas Tree" width="93"></div>

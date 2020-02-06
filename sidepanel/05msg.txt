@@ -1,0 +1,3 @@
+<h2>Demo Message - May</h2>
+<h3>A message with various HTML tags:</h3>
+<p>Some Text<br>~~ Here we have a longer text which spans several lines of the Side Panel ~~<br>Some Text<br><b>Some Bold Text</b><br>Some Text<br>Some Text<br><u>Some Underlined Text</u><br>Some Text<br>This is a link to <a href="https://www.luxsoft.eu/" target="_blank">LuxSoft</a><br>Some Text<br><s>Strike through</s><br>Some Text<br><br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text<br>Some Text</p>

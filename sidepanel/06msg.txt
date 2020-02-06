@@ -1,0 +1,5 @@
+<h2>Demo Message - June</h2>
+<h3>Our wish for all of you:</h3>
+<br>
+<p>This will be my lucky month!</p>
+<div style="text-align:center; color:red; font-size:8.0em">&#128516;</div>

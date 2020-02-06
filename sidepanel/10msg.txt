@@ -1,0 +1,5 @@
+<h3>Demo Message - October</h3>
+<br>
+<h3>Autumn, time for some outdoor activity!</h3>
+<br>
+<div style="text-align:center;"><img src="./thumbnails/walking.gif" alt="sep"></div>

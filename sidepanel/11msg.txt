@@ -1,0 +1,8 @@
+<h2>Demo Message - November</h2>
+<h3>Example of an embedded mp4 video</h3>
+<br>
+<div style="text-align:center;">
+<video width="220" autoplay controls>
+  <source src="thumbnails/bear.mp4" type="video/mp4">
+</video>
+</div>

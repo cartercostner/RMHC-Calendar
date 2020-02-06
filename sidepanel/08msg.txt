@@ -1,0 +1,13 @@
+<h2>Demo Message - August</h2>
+<br>
+<p>In case of <span style="font-size:1.4em">emergency</span> scroll down to the end of this message!</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="text-align:center; color:red; font-size:1.4em"><span style="display:inline-block; padding:6px 12px; border:2px solid grey;">Only in case of EMERGENCY!</span></div>
+<br><br><br>
+<div style="text-align:center;">============</div>
